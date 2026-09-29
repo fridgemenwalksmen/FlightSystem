@@ -16,4 +16,4 @@ GROUP BY
     a.AirportCode
 ORDER BY
     Revenue DESC;
-GO
+--hello
